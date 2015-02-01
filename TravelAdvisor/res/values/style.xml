@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="travelAdvisorStyle" parent="android:Theme.Light.NoTitleBar"></style>
+
+    <style name="travelAdvisorStyle_NoActionBar" parent="android:Theme.Light.NoTitleBar"></style>
+
+    <style name="CategoryButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+</resources>
